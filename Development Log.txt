@@ -1,0 +1,11 @@
+Team Members: Connor Simpson, Lewis , Connor Barr
+
+
+-10/9/19 (Day 1):
+
+Our team decided to take the time in the Labs to come up with the skeleton
+structure for our project as all team members have varying degrees of practice and
+skill with the Game engine we are using.
+
+We decided on using the unreal engine to create a first-person 3D platforming game,
+we all thought of the mechanics that could be implamented based on what we know.  
