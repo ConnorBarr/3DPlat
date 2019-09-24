@@ -1,4 +1,4 @@
-Team Members: Connor Simpson, Lewis , Connor Barr
+Team Members: Connor Simpson, Lewis Graham, Connor Barr
 
 
 -10/9/19 (Day 1):
@@ -8,4 +8,27 @@ structure for our project as all team members have varying degrees of practice a
 skill with the Game engine we are using.
 
 We decided on using the unreal engine to create a first-person 3D platforming game,
-we all thought of the mechanics that could be implamented based on what we know.  
+we all thought of the mechanics that could be implamented based on what we know.
+
+
+-17/9/20 (Day 2):
+
+We met up and talked about getting our Project onto Github where we can all access
+the prototype.
+
+We then followed that up with writting the needed points that our Documentation has
+to mention, to act like a to-do list for us to follow.
+
+Afterwards we continue to create the pre-Alpha of the Game before deciding on spucing
+it up.
+
+
+-24/9/19 (Day 3):
+
+Our Lab time consited of us transfering our documentation to GitHub with varying success.
+
+Whether or not we can incrementaly edit the documents is yet to be seen, but just in case,
+Simpson gave Barr a copy of the Level for Unreal and the documentation.
+
+Lewis was creating a more refined layout for the Documentation, making it more easy to layout
+our information.
