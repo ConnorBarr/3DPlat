@@ -32,3 +32,13 @@ Simpson gave Barr a copy of the Level for Unreal and the documentation.
 
 Lewis was creating a more refined layout for the Documentation, making it more easy to layout
 our information.
+
+-01/9/19 (Day 4):
+
+Connor Simpson decided to redo the Level as it became a cluttered mess, he made a much more
+superior Level hub and implamented the function to transition to the First Level.
+
+Connor Barr finish the main major character/player functions such as jumping walking and jogging.
+Which dictates how far the player jumps.
+
+Lewis grabbed a couple of free audio samples from a website and is planning to test them out.
