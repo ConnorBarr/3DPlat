@@ -42,3 +42,15 @@ Connor Barr finish the main major character/player functions such as jumping wal
 Which dictates how far the player jumps.
 
 Lewis grabbed a couple of free audio samples from a website and is planning to test them out.
+
+
+-8/10/19 (Day 4):
+
+In this weeks lab, our group decide to do seperate things, which we haven't had the time to do
+or haven't commited the time to do yet.
+
+Connor Barr continues to implament character actions into the project whilst Connor Simpson works on writting
+up some of the project's details onto the bare documentation.
+
+Lewis on the other-hand is working on creating a test log for certain features of the game to be assest
+on later.
