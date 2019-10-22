@@ -54,3 +54,14 @@ up some of the project's details onto the bare documentation.
 
 Lewis on the other-hand is working on creating a test log for certain features of the game to be assest
 on later.
+
+
+-22/10/19 (Day 5):
+
+Group member Connor Simpson has decided to work on adding more to / completing the Documentation for the Project.
+This part should be roughly done by half-way into the Labs.
+
+Later Connor is going to Add to / Complete the Levels of the Prototype, so they may be given to Connor Barr for his implimentation of the core game mechanics.
+
+Lewis is seeing whats on GitHub for any work needing to be done. He will be play testing the Prototype during Alpha stages
+and into Beta stages.
